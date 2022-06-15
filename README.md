@@ -10,5 +10,6 @@ I couldn't go above 3100 Accel  3mm/s SCV without excessive low frequency ringin
 
 among other problems like the belt coming off the Idler and idler being bent upwards 
 
+you will lose 12mm at the absolute most of build height, I lost 8mm
 
 TLDR  this mod drastically improves frame stiffness now you have a tooth idler that won't break off 
