@@ -1,1 +1,1 @@
-#  the higher the stage the higher the performance and part count 
+#  The higher the stage, the higher the performance and part count 
