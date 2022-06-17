@@ -1,5 +1,5 @@
 # Bill of materials, Printing instructions and Install
-The 2020 extrusion from the frame needs to fit snugly inside the bottom tower support, so there are multiple tolerance versions.
+The 2020 extrusion from the frame needs to fit inside the bottom tower support, so there are multiple tolerance versions.
 
 
 The Idler pulley also has multiple tolerance versions, the pulley needs to have little play side to 
