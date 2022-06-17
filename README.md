@@ -4,12 +4,13 @@ If you need elp or have questions, ty88#4122
 The squishy wobbly motion system on the Q5 left a lot to be desired soo...
 
 
-## stage 1        
+## stage 1  
+
+keep In mind my effector is heavy and there is play in my parallel arms.       
 
 ![](Gallery./shaper_calibrate_y.png) 
 
-Some reason I can't get a Clipper to Output the x-axis PNG thing 
-
+![](Gallery./shaper_calibrate_x.png) 
 
 ![](Gallery./DSC06228.JPG) 
 
