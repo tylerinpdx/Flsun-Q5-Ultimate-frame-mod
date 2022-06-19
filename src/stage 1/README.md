@@ -1,4 +1,4 @@
-# Bill of materials, Printing instructions and Install
+# Bill of materials, printing instructions and Install
 The 2020 extrusion from the frame needs to fit inside the bottom tower support, so there are multiple tolerance versions.
 
 
@@ -32,7 +32,7 @@ You could also use a 5 mm shaft.
 - idler plate 3x   print it, 3MF is in stage one 
 
 
-# Printing instructions 
+## Printing instructions 
 **You must have another printer to print the parts, Ideally a cartesian machine** 
 
 ABS recommended, PETG minimum or annealed PLA For all parts, Due to proximity to the hot bed.
@@ -42,7 +42,7 @@ You have to know what tolerance your machine is capable of printing,
 so you know what torrance version you should select.
 
  
-# bottom Tower support heavy duty
+### bottom Tower support heavy duty
 Quantity 3x
 
 At least three layers top and bottom 
@@ -58,7 +58,7 @@ Shown below is an example with 0.45MM extrusion width
 
 ![Cross-section example](https://user-images.githubusercontent.com/82112149/173799719-09d9a2b9-cd46-48ce-af91-72abaa0715e8.JPG)
 
-# idler plate
+### idler plate
 Quantity 3x
 
  At least four bottom layers 
