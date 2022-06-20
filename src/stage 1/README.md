@@ -8,7 +8,7 @@ side otherwise it's going to rattle and make a lot of noise.
 The Idler plate has a hole for a 35mm long M5 Fastener, that's should be the right size for the fastener to cut its own thread.
 You could also use a 5 mm shaft.
 
-# BOM for stage 1
+## BOM for stage 1
 - M5x16MM 12.9 12X  
 
 - M5 t-nuts 12X These must be the larger size ones, not those twist-in nonsense things. 
@@ -29,7 +29,7 @@ You could also use a 5 mm shaft.
 
 - bottom tower support heavy duty 3x  print it, 3MF is in stage one 
 
-- idler plate 3x   print it, 3MF is in stage one 
+- idler plate 3x  print it, 3MF is in stage one 
 
 
 ## Printing instructions 
@@ -37,11 +37,6 @@ You could also use a 5 mm shaft.
 
 ABS recommended, PETG minimum or annealed PLA For all parts, Due to proximity to the hot bed.
 
-You have to know what tolerance your machine is capable of printing,
-
-so you know what torrance version you should select.
-
- 
 ### bottom Tower support heavy duty
 Quantity 3x
 
@@ -51,6 +46,7 @@ At least three layers top and bottom
 
 Brim to help reduce warping to minimum, highly recommended
 
+No support
 
 (0.65MM extrusion width, 6 walls)  (0.40MM extrusion width, 9 walls)
 
@@ -67,11 +63,37 @@ Brim to help reduce warping to minimum, highly recommended
 
 (0.65MM extrusion width, 5 walls)  (0.40MM extrusion width, 8 walls)
 
-If you do not have good part cooling you need at least 8% infill so it doesn't collapse
+If you do not have good part cooling you need at least 10% infill so it doesn't collapse
 
 If you have good part cooling you probably won't need support
 
 Shown below is an example with 0.45MM extrusion width
 
 ![plate ](https://user-images.githubusercontent.com/82112149/173805715-6dda1cb0-b45f-43fc-9eb5-d5466634de3b.JPG)
+
+## Instructions
+
+If you've already tolerance tested your other printer you can skip step 1.
+----------------------------------------------------------------------------------------------------
+step 1
+
+print the tolerance tester, get it along with the instructions [here](https://github.com/tylerinpdx/Flsun-Q5-Ultimate-frame-mod/tree/main/src/tools).
+
+after printing the tolerance tester,  take all of them and try to fit them on the extrusion of the frame, you're looking for the one that it's a little bit loose but not too loose 
+
+Example shown below <sup> obviously your machine won't be the same </sup>
+
+![test](https://github.com/tylerinpdx/Flsun-Q5-Ultimate-frame-mod/blob/b1c84518b7b4e8e9a42da4c9719e339feb183a3e/Gallery./Misc/DSC_1005.JPG)
+
+_________________________________________________________________________________________________________________________________________________________________
+
+step 2
+
+After determining which one fit the best. 
+
+Each Torrance test has a number that is the tolerance In millimeters, which corresponds with a file .3mf  
+
+Print the one that fit the best
+
+![test](https://github.com/tylerinpdx/Flsun-Q5-Ultimate-frame-mod/blob/b1c84518b7b4e8e9a42da4c9719e339feb183a3e/Gallery./Misc/DSC_1003.png)
 
